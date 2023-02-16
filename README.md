@@ -21,9 +21,8 @@ Quer saber mais sobre mim? [Acesse meu portfólio](#)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=f89917)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=004283)
 ![](https://img.shields.io/badge/Code-Centura-informational?style=flat&logo=centura&logoColor=white&color=24687b)
+<br>
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4)
-<br>
-<br>
 <br>
 <br>
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=224e68)
