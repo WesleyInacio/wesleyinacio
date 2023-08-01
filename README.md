@@ -1,5 +1,3 @@
-[![Braydon's GitHub Banner](https://i.imgur.com/JvqahMI.jpg)](https://github.com/WesleyInacio)
-
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/wesley.inac/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wesleyinacio/)
 
