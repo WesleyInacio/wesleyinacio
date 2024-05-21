@@ -1,9 +1,9 @@
 Olá! 👋
 
-Meu nome é Wesley Inácio, tenho 23 anos e sou de Mogi Guaçu - São Paulo, atualmente estou na faculdade, cursando o oitavo semestre de engenharia da computação.<br>
+Meu nome é Wesley Inácio, tenho 24 anos e sou de Mogi Guaçu - São Paulo, atualmente estou na faculdade, cursando o nono semestre de engenharia da computação.<br>
 Sempre fui apaixonado por tecnologia, principalmente na área de programação, onde comecei desenvolvendo sites de todos os tipos desde os meus 14 anos.<br>
-Atualmente sou analista de desenvolvimento júnior na empresa Ben Fatto, onde entrei no início de 2022 como estagiário, sendo minha primeira experiência profissional na área de tecnologia da informação.<br>
-Sou responsável por desenvolver customizações para as soluções ONESOURCE Global Trade da empresa Thomson Reuters, com foco nas linguagens PL/SQL (Oracle) e Centura. Aprendendo sobre alguns dos principais módulos de comércio exterior, como importação, exportação, câmbio importação, câmbio exportação, drawback, recof, e também conhecendo sobre integração SAP e outros ERPs.<br>
+Atualmente sou desenvolvedor de software pleno na empresa EloGroup, atuando diretamente no time de tecnologia com a plataforma Sydle One.<br>
+Já trabalhei desenvolvendo customizações para as soluções ONESOURCE Global Trade da empresa Thomson Reuters, com foco nas linguagens PL/SQL (Oracle) e Centura.<br>
 Também tenho experiência com sistema Linux, e com algumas linguagens de programação em projetos pessoais, como HTML, CSS, JavaScript, PHP, Node.JS, React.JS, Python, C, MySQL e PL/SQL.
 
 Quer saber mais sobre mim? [Acesse meu portfólio](#)
