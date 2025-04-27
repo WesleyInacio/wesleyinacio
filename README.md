@@ -1,11 +1,21 @@
 Olá! 👋
 
-Meu nome é Wesley Inácio, tenho 24 anos e sou de Mogi Guaçu - São Paulo, atualmente estou na faculdade, cursando o nono semestre de engenharia da computação.<br>
-Sempre fui apaixonado por tecnologia, principalmente na área de programação, onde comecei desenvolvendo sites de todos os tipos desde os meus 14 anos.<br>
-Atualmente sou desenvolvedor de software pleno na empresa EloGroup, atuando diretamente no time de tecnologia com a plataforma Sydle One.<br>
-Já trabalhei desenvolvendo customizações para as soluções ONESOURCE Global Trade da empresa Thomson Reuters, com foco nas linguagens PL/SQL (Oracle) e Centura.<br>
-Também tenho experiência com sistema Linux, e com algumas linguagens de programação em projetos pessoais, como HTML, CSS, JavaScript, PHP, Node.JS, React.JS, Python, C, MySQL e PL/SQL.
-
+Meu nome é Wesley Inácio, tenho 25 anos e sou natural de Mogi Guaçu, São Paulo. Recentemente, me formei em Engenharia da Computação, onde desenvolvi um TCC sobre Autenticação Biométrica Multifatorial na Segurança Cibernética Corporativa, um chat baseado no Microsoft Teams, com autenticação por reconhecimento facial, tendo como foco principal melhorar a segurança em comunicações corporativas.
+<br><br>
+Atualmente, estou cursando duas pós-graduações, uma em Cyber Segurança e outra em Inteligência Artificial, com o objetivo de aprofundar meus conhecimentos e ampliar minha atuação no desenvolvimento de soluções inovadoras para segurança digital e automação inteligente.
+<br><br>
+Desde jovem, sempre fui fascinado por tecnologia, especialmente pela área de programação. Iniciei meu caminho desenvolvendo websites variados aos 14 anos, o que me proporcionou uma sólida base de conhecimento.
+<br><br>
+Atualmente, exerço a função de Desenvolvedor de Software Pleno na EloGroup, onde integro a equipe de tecnologia. Minhas responsabilidades incluem o trabalho com a plataforma Sydle One, utilizando principalmente JavaScript e Elastic Search. Atuei fortemente no desenvolvimento da parte de folha de pagamento em uma plataforma ERP, sendo responsável por implementar todos os cálculos de proventos e descontos, incluindo impostos.
+<br><br>
+Possuo experiência significativa em customizações para a plataforma ONESOURCE Global Trade, um sistema global de gerenciamento de comércio exterior da Thomson Reuters. Minha atuação abrange os módulos de importação, exportação, regimes especiais e integração com SAP. Tenho orgulho de ter contribuído com projetos entregues para empresas de renome mundial, como BMW, Volvo, Mercedes, Nissan, Volkswagen, Dell, Multilaser, Suzano, entre outras.
+<br><br>
+Além disso, tenho conhecimento em sistemas Linux e diversas linguagens de programação aplicadas em projetos pessoais, tais como HTML, CSS, JavaScript, PHP, Node.js, React.js, Python, Flutter, C, MySQL e PL/SQL.
+<br><br>
+Sou também um entusiasta da área de segurança da informação. Tenho experiência com Kali Linux e realizei estudos voltados para exploração de vulnerabilidades, testes de penetração e análises de tráfego.
+<br><br>
+Estou sempre em busca de novos desafios e oportunidades de aprendizado para expandir minhas habilidades e contribuir de forma significativa para o campo da tecnologia.
+<br><br>
 Quer saber mais sobre mim? [Acesse meu portfólio](#)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://facebook.com/wesley.inac/)
